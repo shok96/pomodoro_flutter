@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCVTGet1CbesdwGcBT-T0n7lJ6y7767DAQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>859983801702</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ru.andlancer.pomodoro.pomodoroFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>pomodoro-flutter-70719</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pomodoro-flutter-70719.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:859983801702:ios:db3f195a9ae89513716ca7</string>
+</dict>
+</plist>

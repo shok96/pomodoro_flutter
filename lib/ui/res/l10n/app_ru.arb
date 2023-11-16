@@ -1,0 +1,13 @@
+{
+  "language": "Russian",
+  "title": "pomodoro",
+  "tab_mode_short": "короткий перерыв",
+  "tab_mode_pomodoro": "pomodoro",
+  "tab_mode_long": "длинный перерыв",
+  "settings": "Настройки",
+  "settings_time": "ВРЕМЯ (МИНУТЫ)",
+  "settings_theme": "ТЕМА",
+  "text_push_permission":"Нужно получить разрешение на показ PUSH уведомлений для полноценной работы приложения. Разрешишь?)",
+  "push_accept":"Разрешаю",
+  "push_decline":"Нет!"
+  }

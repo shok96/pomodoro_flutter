@@ -1,0 +1,13 @@
+{
+    "language": "English",
+    "title": "pomodoro",
+    "tab_mode_short": "short break",
+    "tab_mode_pomodoro": "pomodoro",
+    "tab_mode_long": "long break",
+    "settings":"Settings",
+    "settings_time":"TIME (MINUTES)",
+    "settings_theme":"THEME",
+    "text_push_permission": "Need permission to show PUSH notifications for the app to fully work. Will you allow it?)",
+    "push_accept": "Allow.",
+    "push_decline": "No!"
+  }
