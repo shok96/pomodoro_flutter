@@ -27,7 +27,7 @@ class ProjectTypography {
   );
 
   static const tabModeActive = TextStyle(
-    fontSize: 22.0,
+    fontSize: 20.0,
     height: 1.3,
     fontWeight: FontWeight.w500,
   );
